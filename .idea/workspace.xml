@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9887b3a4-eb1e-4ef1-b270-d46eac626ae2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/fonts/materialdesignicons-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/fonts/materialdesignicons-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/fonts/materialdesignicons-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/fonts/materialdesignicons-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img/heart-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img/icon-heart-sprite.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img/icon-photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img/image-icons-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img/main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/like.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Практика.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/.github/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/css/materialdesignicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/css/materialdesignicons.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/css/materialdesignicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/css/materialdesignicons.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/fonts/materialdesignicons-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/license.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/scss/_extras.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/scss/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaterialDesign-Webfont-master/scss/materialdesignicons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Photo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/materialdesignicons.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -169,12 +112,12 @@
       <workItem from="1510687262619" duration="4028000" />
       <workItem from="1510691670063" duration="792000" />
       <workItem from="1510769044061" duration="1310000" />
-      <workItem from="1510853909569" duration="268000" />
+      <workItem from="1510853909569" duration="854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12041000" />
+    <option name="totallyTimeSpent" value="12627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1380" height="742" extended-state="6" />
